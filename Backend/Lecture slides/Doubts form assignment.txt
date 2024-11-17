@@ -1,0 +1,31 @@
+#Fibonacci
+0, 1, 1, 2, 3, 5, 8, 13, 21............
+
+# Anagrams
+Check if two strings are anagrams
+• Sample Input: listen, silent
+• Sample Output: True
+
+CAB, ABC
+
+
+# To binary
+Convert a decimal number to binary
+• Sample Input: 18
+• Sample Output: 10010
+
+
+bin()
+
+18 % 2  == 0
+9 % 2  == 1
+4 % 2  == 0
+2 % 2 == 0
+1
+10010
+
+
+
+
+
+

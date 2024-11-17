@@ -1,0 +1,46 @@
+# Project Overview:
+
+Functions
+----> Address contact book 
+	----> add a contact to my book
+	----> remove contact to my book
+	----> list of contact available
+	----> find a contact
+
+# Structure of My Package:
+separate Directory:
+adressbook/
+	__init__.py
+	contacts.py
+main.py
+
+
+
+
+
+
+
+# Your Task is to Create a calculator using Modular Programming approach
+--> Special_Calculator:
+		-----> addition
+		-----> Substraction
+		-----> product
+		-----> Division
+		-----> BMI(height and weight)
+		-----> Remainder
+		-----> Exponent
+		-----> Floor Division
+
+# Package Should have
+__init__.py file
+another n number of files
+
+main.py
+
+
+
+
+
+
+
+
